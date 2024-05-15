@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Maria Pronina 👋
+## Frontend develpoer from Saint Petersburg
+
+* 🔭 Currently studying at ITMO University
 
 <!--
 **marypronina/marypronina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
