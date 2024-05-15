@@ -5,8 +5,7 @@
 * 🌱 I’m currently learning React and Vue.js
 
 # How to reach me:
-[<img width="24" height="24" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>](mailto:mashapronina27@gmail.com)           
-[<img width="24" height="24" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram-app--v1"/>](https://t.me/mmarypronina)
+[<img width="36" height="36" src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="telegram-app--v1"/>](https://t.me/mmarypronina) &nbsp;&nbsp;  [<img width="36" height="36" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>](mailto:mashapronina27@gmail.com) 
 
 
 <!--
