@@ -2,6 +2,11 @@
 ## Frontend develpoer from Saint Petersburg
 
 * 🔭 Currently studying at ITMO University
+* 🌱 I’m currently learning React and Vue.js
+
+# How to reach me:
+[telegram](https://t.me/mmarypronina)
+[Email](mailto:mashapronina27@gmail.com)
 
 <!--
 **marypronina/marypronina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
