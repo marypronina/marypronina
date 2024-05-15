@@ -1,5 +1,5 @@
 ### Hi there, I'm Maria Pronina 👋
-## Frontend develpoer from Saint Petersburg
+## Frontend developer from Saint Petersburg
 
 * 🔭 Currently studying at ITMO University
 * 🌱 I’m currently learning React and Vue.js
