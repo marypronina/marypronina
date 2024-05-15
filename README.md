@@ -5,9 +5,9 @@
 * 🌱 I’m currently learning React and Vue.js
 
 # How to reach me:
-[telegram](https://t.me/mmarypronina) 
+## [telegram](https://t.me/mmarypronina) 
 
-[email](mailto:mashapronina27@gmail.com)
+## [email](mailto:mashapronina27@gmail.com)
 
 <!--
 **marypronina/marypronina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
