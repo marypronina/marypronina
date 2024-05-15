@@ -5,7 +5,8 @@
 * 🌱 I’m currently learning React and Vue.js
 
 # How to reach me:
-[telegram](https://t.me/mmarypronina)
+[telegram](https://t.me/mmarypronina) 
+
 [Email](mailto:mashapronina27@gmail.com)
 
 <!--
